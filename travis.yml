@@ -1,1 +1,7 @@
 language: html;
+
+notifications:
+  email:
+    recipients:
+      - samuel.afonso2008@hotmail.com
+    on_success: always
